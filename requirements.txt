@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+gensim
+requests
+coverage
