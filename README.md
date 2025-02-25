@@ -1,4 +1,4 @@
-# Wordle-Puzzle
+# Wordle-Puzzle 
 
 This project implements a reinforcement learning agent that learns to play the Wordle game. The test code was developed with the assistance of Google Gemini AI. I leveraged Gemini's capabilities to analyze the test requirements, generate initial code, and iteratively enhance the solution using machine learning to improve the Wordle-solving strategy. 
 
